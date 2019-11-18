@@ -1,2 +1,1 @@
 # bigNews
-xxx
